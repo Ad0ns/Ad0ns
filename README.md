@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adonis</h1>
-<h3 align="center">A passionate front-end developer from Greece</h3>
+<h3 align="center">A passionatedeveloper from Greece</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **any Front-end projects**
 

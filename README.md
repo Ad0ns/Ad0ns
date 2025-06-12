@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Adonis</h1>
+<h1 align="center">Hi, I'm Adonis</h1>
 <h3 align="center">A passionate developer from Greece</h3>
 
-- 🌱 I’m currently learning **Python**
+-  I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **DevOps projects**
+-  I’m looking to collaborate on **DevOps projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
